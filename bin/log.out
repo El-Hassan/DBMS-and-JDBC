@@ -1,0 +1,292 @@
+2014-12-11 23:34:02,445  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,532  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,539  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,548  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,551  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,580  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,583  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,605  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,613  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,616  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,645  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,652  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,660  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,663  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,701  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,704  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,736  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,746  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,749  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,777  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,785  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,797  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,800  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,821  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,824  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,864  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,870  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,873  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,908  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,915  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,921  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,928  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:34:02,930  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:02,984  Line  155  -  ERROR  :  This column doesn't exists in this table
+2014-12-11 23:34:09,286  Line  60  -   INFO  :  DB created
+2014-12-11 23:34:09,377  Line  152  -   INFO  :  Table created
+2014-12-11 23:34:09,460  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:34:09,513  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:34:09,579  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:34:09,693  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:34:09,727  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:09,766  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:34:09,820  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:36:57,937  Line  60  -   INFO  :  DB created
+2014-12-11 23:36:58,035  Line  152  -   INFO  :  Table created
+2014-12-11 23:36:58,139  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:36:58,230  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:36:58,314  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:36:58,494  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:36:58,568  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:36:58,632  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:36:58,724  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:37:27,822  Line  60  -   INFO  :  DB created
+2014-12-11 23:37:27,943  Line  152  -   INFO  :  Table created
+2014-12-11 23:37:28,039  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:37:28,132  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:37:28,219  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:37:28,411  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:37:28,461  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:37:28,520  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:37:28,590  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:37:28,708  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:38:23,643  Line  60  -   INFO  :  DB created
+2014-12-11 23:38:23,761  Line  152  -   INFO  :  Table created
+2014-12-11 23:38:23,880  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:38:23,990  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:38:24,119  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:38:24,306  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:38:24,373  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:38:24,432  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:38:24,503  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:38:24,579  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:12,265  Line  60  -   INFO  :  DB created
+2014-12-11 23:39:12,381  Line  152  -   INFO  :  Table created
+2014-12-11 23:39:12,498  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:12,586  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:12,672  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:12,849  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:39:12,905  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:12,960  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:33,256  Line  79  -  ERROR  :  F:\programming\eclipce luna java Workplace\Lab\MY DBMS\DB LAB5\persons.xml (The system cannot find the path specified)
+2014-12-11 23:39:33,341  Line  79  -  ERROR  :  F:\programming\eclipce luna java Workplace\Lab\MY DBMS\DB LAB4\win.xml (The system cannot find the path specified)
+2014-12-11 23:39:33,410  Line  161  -  ERROR  :  F:\programming\eclipce luna java Workplace\Lab\MY DBMS\DB LAB5\schema.xml (The system cannot find the path specified)
+2014-12-11 23:39:43,291  Line  60  -   INFO  :  DB created
+2014-12-11 23:39:43,439  Line  152  -   INFO  :  Table created
+2014-12-11 23:39:43,565  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:43,663  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:43,835  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,013  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:39:44,076  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:44,131  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:44,245  Line  152  -   INFO  :  Table created
+2014-12-11 23:39:44,322  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,395  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,431  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:39:44,439  Line  155  -  ERROR  :  execute batch failed
+2014-12-11 23:39:44,499  Line  60  -   INFO  :  DB created
+2014-12-11 23:39:44,538  Line  152  -   INFO  :  Table created
+2014-12-11 23:39:44,576  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,586  Line  63  -  ERROR  :  statement not insert or update
+2014-12-11 23:39:44,630  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,705  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,801  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:39:44,856  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:44,934  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:39:45,031  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:39:45,075  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:45,135  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-11 23:39:45,166  Line  36  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:39:45,168  Line  63  -  ERROR  :  statement not insert or update
+2014-12-11 23:39:45,206  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:39:45,209  Line  155  -  ERROR  :  execute batch failed
+2014-12-11 23:39:45,211  Line  211  -  ERROR  :  statement is't select
+2014-12-11 23:39:45,214  Line  241  -  ERROR  :  can not be select statement
+2014-12-11 23:39:45,285  Line  60  -   INFO  :  DB created
+2014-12-11 23:39:45,344  Line  152  -   INFO  :  Table created
+2014-12-11 23:39:45,384  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:45,425  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:45,488  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:39:45,491  Line  122  -  ERROR  :  statement is closed
+2014-12-11 23:39:45,493  Line  122  -  ERROR  :  statement is closed
+2014-12-11 23:44:53,765  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:53,945  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:53,968  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:53,998  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,004  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,066  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,070  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,119  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,131  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,136  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,185  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,205  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,219  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,246  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,295  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,300  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,365  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,382  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,386  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,422  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,434  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,461  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,465  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,532  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,537  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,580  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,591  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,595  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,660  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,681  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,693  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,701  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:44:54,704  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:44:54,846  Line  155  -  ERROR  :  This column doesn't exists in this table
+2014-12-11 23:45:01,789  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:01,948  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:01,968  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,011  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,018  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,068  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,071  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,099  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,117  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,120  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,155  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,164  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,173  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,177  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,222  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,227  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,264  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,275  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,278  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,316  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,330  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,338  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,341  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,367  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,372  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,399  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,410  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,415  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,452  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,460  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,470  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,482  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-11 23:45:02,486  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:02,576  Line  155  -  ERROR  :  This column doesn't exists in this table
+2014-12-11 23:45:12,030  Line  60  -   INFO  :  DB created
+2014-12-11 23:45:12,150  Line  152  -   INFO  :  Table created
+2014-12-11 23:45:12,258  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:12,331  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:12,466  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:12,638  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:45:12,686  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:12,738  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:12,878  Line  152  -   INFO  :  Table created
+2014-12-11 23:45:12,957  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,026  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,046  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:45:13,050  Line  155  -  ERROR  :  execute batch failed
+2014-12-11 23:45:13,109  Line  60  -   INFO  :  DB created
+2014-12-11 23:45:13,160  Line  152  -   INFO  :  Table created
+2014-12-11 23:45:13,216  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,224  Line  63  -  ERROR  :  statement not insert or update
+2014-12-11 23:45:13,299  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,383  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,483  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:45:13,537  Line  98  -  ERROR  :  insertion Complete
+2014-12-11 23:45:13,618  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:45:13,683  Line  87  -   INFO  :  Row/s Updated
+2014-12-11 23:45:13,704  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:13,750  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-11 23:45:13,776  Line  36  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:45:13,780  Line  63  -  ERROR  :  statement not insert or update
+2014-12-11 23:45:13,805  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-11 23:45:13,810  Line  155  -  ERROR  :  execute batch failed
+2014-12-11 23:45:13,813  Line  211  -  ERROR  :  statement is't select
+2014-12-11 23:45:13,815  Line  241  -  ERROR  :  can not be select statement
+2014-12-11 23:45:13,818  Line  122  -  ERROR  :  statement is closed
+2014-12-11 23:45:13,826  Line  122  -  ERROR  :  statement is closed
+2014-12-14 13:05:48,311  Line  90  -  ERROR  :  This column doesn't exists in this table
+2014-12-14 13:05:48,341  Line  123  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:48,351  Line  127  -  ERROR  :  This Table doesn't exists in database
+2014-12-14 13:05:59,649  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,739  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,739  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,749  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,749  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,769  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,769  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,779  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,779  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,789  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,799  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,799  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,809  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,809  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,829  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,829  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,839  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,849  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,849  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,859  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,859  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,869  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,869  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,879  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,879  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,889  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,899  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,899  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,929  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,929  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,939  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,939  Line  69  -  ERROR  :  Select Operation was Successful
+2014-12-14 13:05:59,939  Line  31  -   INFO  :  Select Operation was Successful
+2014-12-14 13:05:59,969  Line  155  -  ERROR  :  This column doesn't exists in this table
+2014-12-14 13:06:18,381  Line  60  -   INFO  :  DB created
+2014-12-14 13:06:18,431  Line  152  -   INFO  :  Table created
+2014-12-14 13:06:18,471  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,501  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,531  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,591  Line  87  -   INFO  :  Row/s Updated
+2014-12-14 13:06:18,621  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-14 13:06:18,641  Line  399  -   INFO  :  Select Operation was Successful
+2014-12-14 13:06:18,681  Line  152  -   INFO  :  Table created
+2014-12-14 13:06:18,711  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,731  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,741  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-14 13:06:18,741  Line  155  -  ERROR  :  execute batch failed
+2014-12-14 13:06:18,751  Line  60  -   INFO  :  DB created
+2014-12-14 13:06:18,781  Line  152  -   INFO  :  Table created
+2014-12-14 13:06:18,811  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,811  Line  63  -  ERROR  :  statement not insert or update
+2014-12-14 13:06:18,851  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,881  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,921  Line  87  -   INFO  :  Row/s Updated
+2014-12-14 13:06:18,941  Line  98  -  ERROR  :  insertion Complete
+2014-12-14 13:06:18,981  Line  87  -   INFO  :  Row/s Updated
+2014-12-14 13:06:19,021  Line  87  -   INFO  :  Row/s Updated
+2014-12-14 13:06:19,041  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-14 13:06:19,071  Line  83  -   INFO  :  Select Operation was Successful
+2014-12-14 13:06:19,081  Line  36  -  ERROR  :  This Table doesn't exists in database
+2014-12-14 13:06:19,081  Line  63  -  ERROR  :  statement not insert or update
+2014-12-14 13:06:19,091  Line  64  -  ERROR  :  This Table doesn't exists in database
+2014-12-14 13:06:19,091  Line  155  -  ERROR  :  execute batch failed
+2014-12-14 13:06:19,091  Line  211  -  ERROR  :  statement is't select
+2014-12-14 13:06:19,091  Line  241  -  ERROR  :  can not be select statement
+2014-12-14 13:06:19,101  Line  122  -  ERROR  :  statement is closed
+2014-12-14 13:06:19,101  Line  122  -  ERROR  :  statement is closed
